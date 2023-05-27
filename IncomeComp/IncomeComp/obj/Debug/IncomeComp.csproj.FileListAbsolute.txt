@@ -1,0 +1,7 @@
+C:\Users\mitch\Documents\GitHub\Basic_C-Sharp_Projects\IncomeComp\IncomeComp\bin\Debug\IncomeComp.exe.config
+C:\Users\mitch\Documents\GitHub\Basic_C-Sharp_Projects\IncomeComp\IncomeComp\bin\Debug\IncomeComp.exe
+C:\Users\mitch\Documents\GitHub\Basic_C-Sharp_Projects\IncomeComp\IncomeComp\bin\Debug\IncomeComp.pdb
+C:\Users\mitch\Documents\GitHub\Basic_C-Sharp_Projects\IncomeComp\IncomeComp\obj\Debug\IncomeComp.csproj.AssemblyReference.cache
+C:\Users\mitch\Documents\GitHub\Basic_C-Sharp_Projects\IncomeComp\IncomeComp\obj\Debug\IncomeComp.csproj.CoreCompileInputs.cache
+C:\Users\mitch\Documents\GitHub\Basic_C-Sharp_Projects\IncomeComp\IncomeComp\obj\Debug\IncomeComp.exe
+C:\Users\mitch\Documents\GitHub\Basic_C-Sharp_Projects\IncomeComp\IncomeComp\obj\Debug\IncomeComp.pdb
