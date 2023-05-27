@@ -1,0 +1,7 @@
+C:\Users\mitch\Documents\GitHub\Basic_C-Sharp_Projects\InsuranceApp\InsuranceApp\bin\Debug\InsuranceApp.exe.config
+C:\Users\mitch\Documents\GitHub\Basic_C-Sharp_Projects\InsuranceApp\InsuranceApp\bin\Debug\InsuranceApp.exe
+C:\Users\mitch\Documents\GitHub\Basic_C-Sharp_Projects\InsuranceApp\InsuranceApp\bin\Debug\InsuranceApp.pdb
+C:\Users\mitch\Documents\GitHub\Basic_C-Sharp_Projects\InsuranceApp\InsuranceApp\obj\Debug\InsuranceApp.csproj.AssemblyReference.cache
+C:\Users\mitch\Documents\GitHub\Basic_C-Sharp_Projects\InsuranceApp\InsuranceApp\obj\Debug\InsuranceApp.csproj.CoreCompileInputs.cache
+C:\Users\mitch\Documents\GitHub\Basic_C-Sharp_Projects\InsuranceApp\InsuranceApp\obj\Debug\InsuranceApp.exe
+C:\Users\mitch\Documents\GitHub\Basic_C-Sharp_Projects\InsuranceApp\InsuranceApp\obj\Debug\InsuranceApp.pdb
