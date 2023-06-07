@@ -29,7 +29,7 @@ namespace PackageExpress
             Console.WriteLine("Please enter the package length:");  //Gets length from user and converts to Int
             int packLength = Convert.ToInt32(Console.ReadLine());
 
-            if (packWidth > 50 | packHeight > 50 | packLength > 50) //If statement using OR to check dimensions greater than 50
+            if ((packWidth + packHeight + packLength) > 50) //If statement to check whether sum of dimensions is greater than 50
             {
                 Console.WriteLine("Package too big to be shipped via Package Express. Have a good day.");
                 Console.ReadLine();
