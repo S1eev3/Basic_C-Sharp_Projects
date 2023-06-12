@@ -1,0 +1,7 @@
+C:\Users\mitch\Documents\GitHub\Basic_C-Sharp_Projects\GarfieldDoWhile\GarfieldDoWhile\bin\Debug\GarfieldDoWhile.exe.config
+C:\Users\mitch\Documents\GitHub\Basic_C-Sharp_Projects\GarfieldDoWhile\GarfieldDoWhile\bin\Debug\GarfieldDoWhile.exe
+C:\Users\mitch\Documents\GitHub\Basic_C-Sharp_Projects\GarfieldDoWhile\GarfieldDoWhile\bin\Debug\GarfieldDoWhile.pdb
+C:\Users\mitch\Documents\GitHub\Basic_C-Sharp_Projects\GarfieldDoWhile\GarfieldDoWhile\obj\Debug\GarfieldDoWhile.csproj.AssemblyReference.cache
+C:\Users\mitch\Documents\GitHub\Basic_C-Sharp_Projects\GarfieldDoWhile\GarfieldDoWhile\obj\Debug\GarfieldDoWhile.csproj.CoreCompileInputs.cache
+C:\Users\mitch\Documents\GitHub\Basic_C-Sharp_Projects\GarfieldDoWhile\GarfieldDoWhile\obj\Debug\GarfieldDoWhile.exe
+C:\Users\mitch\Documents\GitHub\Basic_C-Sharp_Projects\GarfieldDoWhile\GarfieldDoWhile\obj\Debug\GarfieldDoWhile.pdb
