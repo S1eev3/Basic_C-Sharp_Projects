@@ -10,6 +10,31 @@ namespace GarfieldDoWhile
     {
         static void Main(string[] args)
         {
+            // While loop asking user to guess the cat Garfield
+            // Since it is only a while loop and not do/while, the "correct" message will not display
+            // if guessed right on the first try
+            Console.WriteLine("Who is a famous cartoon cat that loves lasagna?");
+            string cartoonCat = Console.ReadLine();
+            bool catGuessed = cartoonCat == "Garfield";
+
+            while (!catGuessed)
+            {
+                switch (cartoonCat)
+                {
+                    case "Garfield":
+                        Console.WriteLine("Correct! Garfield the Cat loves Lasagna!");
+                        catGuessed = true;
+                        break;
+                    default:
+                        Console.WriteLine("You are wrong.");
+                        Console.WriteLine("Who is a famous cartoon cat that loves lasagna?");
+                        cartoonCat = Console.ReadLine();
+                        break;
+                }
+            }
+
+
+
             Console.WriteLine("What day does Garfield the Cat hate most?");
             string garfieldDay = Console.ReadLine();
             bool dayGuessed = garfieldDay == "Monday";
