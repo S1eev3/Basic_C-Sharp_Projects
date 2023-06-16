@@ -9,22 +9,22 @@ namespace MainMethod
     public class MyClass
     {
         public int numOne = 2;
-        public static int numMath(int userNumber)
+        public int numMath(int userNumber)
         {
             int numOne = 2;
             int result = numOne + userNumber;
             return result;
         }
 
-        public static int numMath(int userNumber, double decNumber)
+        public int numMath(double decNumber)
         {
             double numOne = 2;
-            double result = numOne + userNumber * decNumber;
+            double result = numOne * decNumber;
             int result2 = Convert.ToInt32(result);
             return result2;
         }
 
-        public static int numMath(string userNumber)
+        public int numMath(string userNumber)
         {
             int numOne = 20;
             int userNumber2 = Convert.ToInt32(userNumber);
