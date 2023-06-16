@@ -1,0 +1,7 @@
+C:\Users\mitch\Documents\GitHub\Basic_C-Sharp_Projects\Methods\Methods\bin\Debug\Methods.exe.config
+C:\Users\mitch\Documents\GitHub\Basic_C-Sharp_Projects\Methods\Methods\bin\Debug\Methods.exe
+C:\Users\mitch\Documents\GitHub\Basic_C-Sharp_Projects\Methods\Methods\bin\Debug\Methods.pdb
+C:\Users\mitch\Documents\GitHub\Basic_C-Sharp_Projects\Methods\Methods\obj\Debug\Methods.csproj.AssemblyReference.cache
+C:\Users\mitch\Documents\GitHub\Basic_C-Sharp_Projects\Methods\Methods\obj\Debug\Methods.csproj.CoreCompileInputs.cache
+C:\Users\mitch\Documents\GitHub\Basic_C-Sharp_Projects\Methods\Methods\obj\Debug\Methods.exe
+C:\Users\mitch\Documents\GitHub\Basic_C-Sharp_Projects\Methods\Methods\obj\Debug\Methods.pdb
