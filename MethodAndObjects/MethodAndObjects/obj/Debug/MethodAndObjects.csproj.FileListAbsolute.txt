@@ -1,0 +1,7 @@
+C:\Users\mitch\Documents\GitHub\Basic_C-Sharp_Projects\MethodAndObjects\MethodAndObjects\bin\Debug\MethodAndObjects.exe.config
+C:\Users\mitch\Documents\GitHub\Basic_C-Sharp_Projects\MethodAndObjects\MethodAndObjects\bin\Debug\MethodAndObjects.exe
+C:\Users\mitch\Documents\GitHub\Basic_C-Sharp_Projects\MethodAndObjects\MethodAndObjects\bin\Debug\MethodAndObjects.pdb
+C:\Users\mitch\Documents\GitHub\Basic_C-Sharp_Projects\MethodAndObjects\MethodAndObjects\obj\Debug\MethodAndObjects.csproj.AssemblyReference.cache
+C:\Users\mitch\Documents\GitHub\Basic_C-Sharp_Projects\MethodAndObjects\MethodAndObjects\obj\Debug\MethodAndObjects.csproj.CoreCompileInputs.cache
+C:\Users\mitch\Documents\GitHub\Basic_C-Sharp_Projects\MethodAndObjects\MethodAndObjects\obj\Debug\MethodAndObjects.exe
+C:\Users\mitch\Documents\GitHub\Basic_C-Sharp_Projects\MethodAndObjects\MethodAndObjects\obj\Debug\MethodAndObjects.pdb
